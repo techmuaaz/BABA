@@ -1,0 +1,294 @@
+.body{
+    background-color: rgb(234, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.head{
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+    gap: 5%;
+}
+
+.side{
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 10px 25px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.san{
+    color: rgb(88, 88, 88);
+    font-size: 18px;
+    text-align: center;
+    padding-bottom: 30%;
+}
+
+.dow{
+    border: none;
+    border-radius: 15px;
+    background-color: rgb(40, 129, 103);
+    color: white;
+    padding: 10px 30px;
+    display: inline-block;
+}
+
+.mar{
+    padding: 4%;
+    margin-top: 2%;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif ;
+}
+
+.p{
+    color: rgb(97, 96, 96);
+    padding-left: 17%;
+}
+
+.m{
+    font-size: 22px;
+    color: rgb(75, 74, 74);
+    padding-left: 17%;
+    font-weight: 500;
+}
+
+.st{
+    background-color: white;
+    border-radius: 10px;
+}
+
+.st img{
+    border-radius: 50%;
+    width: 78%;
+    margin: 8%;
+}
+
+.exp{
+    font-size: 25px;
+    padding: 4%;
+    font-weight: 500;
+}
+
+.q{
+    font-size: 55px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.bas{
+    padding: 5%; 
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.rup{
+    color: rgb(20, 110, 73);
+    font-size: 35px;
+    font-weight: 500;
+    padding-left: 5%;
+}
+
+.mobi{
+    font-size: 22px;
+    color: rgb(75, 74, 74);
+    padding-left: 5%;
+    font-weight: 500;
+}
+
+.dat{
+    color: rgb(40, 129, 103);
+    font-size: 14px;
+    padding-left: 8%;
+    padding-top: 11%;
+}
+
+.sto{
+    font-size: 40px;
+    font-weight: bold;
+    padding-left: 8%;
+}
+
+.web{
+    color: rgb(88, 88, 88);
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px 35px;
+}
+
+.do{
+    color: rgb(77, 77, 77);
+    font-size: 17px;
+    padding: 15px 30px;
+}
+
+.digi{
+    color: rgb(151, 149, 149);
+    font-size: 18px;
+    padding: 4%;
+    margin-top: -9%;
+}
+
+.pe{
+    color: rgb(75, 74, 74);
+    font-size: 18px;
+    font-weight: 500;
+    padding: 2%;
+}
+
+.work{
+    color: rgb(75, 74, 74);
+    font-size: 18px;
+    padding-left: 5%;
+}
+
+.d{
+    border: 1px solid rgb(209, 207, 207);
+    border-radius: 10px;
+}
+
+
+.st hr{
+    margin: 30px;
+}
+
+.pla{
+    font-size: 22px;
+    color: rgb(87, 87, 87);
+    padding-left: 5%;
+}
+
+.ne{
+    color: rgb(87, 87, 87);
+    font-size: 18px;
+    padding: 4%;
+}
+
+.ar{
+    color: rgb(87, 87, 87);
+    font-size: 18px;
+    padding: 4%;
+    margin-top: -9%;
+}
+
+.pro{
+    text-align: center;
+    color: rgb(66, 66, 66);
+    padding: 20px;
+    margin-top: 5%;
+}
+
+.out{
+    color: rgb(75, 74, 74);
+    text-align: center;
+    font-size: 18px;
+    padding: 0% 27%;
+}
+
+.per{
+    border: none;
+    border-radius: 15px;
+    background-color: rgb(40, 129, 103);
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 8px 100px;
+    display: inline-block;
+}
+
+.hou{
+    color: rgb(87, 87, 87);
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.nam{
+    font-size: 22px;
+    color: rgb(75, 74, 74);
+    padding-left: 3%;
+    font-weight: 500;
+}
+
+.det{
+    color: rgb(87, 87, 87);
+    font-size: 16px;
+    padding-left: 3%;
+}
+
+.pai{
+    color: rgb(87, 87, 87);
+    font-size: 19px;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.com{
+    text-align: center;
+    color: rgb(66, 66, 66);
+    padding: 20px;
+}
+
+.n{
+    padding-left: 5%;
+    padding-top: 5%;
+    padding-right: 5%;
+}
+
+.n input{
+    border-radius: 5px;
+    padding: 2%;
+    width: 49%;
+}
+
+.p{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.p input{
+    border-radius: 5px;
+    padding: 2%;
+    width: 99%;
+}
+
+.t{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.t input{
+    border-radius: 5px;
+    padding: 2%;
+}
+
+.t textarea{
+    padding: 2%;
+    border-radius: 5px;
+}
+
+.off{
+    color: rgb(66, 66, 66);
+    font-size: 18px;
+    padding-top: 15%;
+    padding-left: 10%;
+}
+
+.tig{
+    color: rgb(85, 85, 85);
+    font-size: 17px;
+    padding-left: 10%
+}
+
+.con{
+    color: rgb(66, 66, 66);
+    font-size: 18px;
+    padding-top: 12%;
+    padding-left: 10%;
+}
+
+.ready{
+    margin-top: 3%;
+    text-align: center;
+    padding-bottom: 5%;
+    margin-bottom: 5%;
+}
