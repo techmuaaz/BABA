@@ -1,0 +1,144 @@
+.front{
+    background-color:  rgb(238, 253, 253); 
+    padding-bottom: 5%;
+}
+
+.header{
+    margin-top: 2%;
+    padding: 1.5%;
+    background-color: black;
+    display: inline-block;
+    color: white;
+    display: flex;
+    gap: 2%;
+    font-size: 18px;
+    align-items: center;
+}
+
+.hello{
+    padding-top: 44%;
+    font-size: 20px;
+    color: rgb(177, 65, 24);
+    margin-left: 3%;
+}
+
+.doe{
+    margin-left: 2%;
+    font-size: 75px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.button{
+    background-color: black;
+    color: white;
+    margin-left: 3%;
+    font-size: 14px;
+    padding: 15px 50px;
+    display: inline-block;
+}
+
+.about{
+    font-size: 65px;
+    margin-top: 18%;
+    margin-left: 2%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.paira{
+    margin-left: 2%;
+    font-size: 25px;
+    margin-top: 8%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.exp{
+    font-size: 32px;
+    margin-left: 5%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.spo{
+    font-size: 20px;
+    margin-left: 5%;
+    margin-top: 4%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.gra{
+    color: rgb(126, 126, 126);
+    font-size: 16px;
+}
+
+.happy{
+    margin-top: 8%;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.flex{
+    display: flex;
+}
+
+.name{
+    font-size: 19px; 
+    font-family: Arial, Helvetica, sans-serif; 
+    padding-left: 3%;
+}
+
+.detail{
+    font-size: 20px;
+    margin-top: 4%;
+    margin-right: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.number{
+    padding-top: 15%;
+    padding-left: 15%;
+    padding-right: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.get{
+    font-size: 25px;
+    color: rgb(126, 126, 126);
+    padding-left: 5%;
+    padding-top: 15%;
+    padding-right: 8%;
+}
+
+.message{
+    border: none;
+    margin: 5%;
+    margin-top: 10%;
+    margin-bottom: 15%;
+    background-color: rgb(189, 61, 15);
+    padding: 3%;
+    color: white;
+    text-align: center;
+    font-weight: 500;
+}
+
+.follow{
+    margin-top: 20%;
+    color: white;
+    font-size: 28px;
+}
+
+.me{
+    color: rgb(126, 126, 126);
+    font-size: 22px;
+    padding-top: 3%;
+}
+
+.cv{
+    border: 2px solid white;
+    color: white;
+    margin-top: 10%;
+    margin-bottom: 15%;
+    padding: 3%;
+    text-align: center;
+    font-weight: 500;
+}
