@@ -1,0 +1,81 @@
+.front{
+    background-color: gray; 
+    color: white;
+    padding-bottom: 16%;
+}
+
+.menu{
+    justify-content: center;
+    display: flex;
+    gap: 3%;
+    padding-top: 3%;
+}
+
+.hello{
+    font-size: 70px;
+    text-align: center;
+    padding-top: 15%;
+}
+
+.rezum{
+    font-size: 16px;
+}
+
+.feature{
+    text-align: center;
+    color: white;
+    padding-top: 5%;
+    font-size: 30px;
+}
+
+.imtext{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 3%;
+    color: white;
+}
+
+.education{
+    font-size: 21px;
+    color: white;
+}
+
+.box{
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(48, 48, 48);
+    padding: 3%;
+}
+
+.date{
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+}
+
+.heading{
+    font-size: 22px;
+    color: rgb(121, 180, 32);
+}
+
+.paira{
+    color: gray;
+    font-size: 16px;
+}
+
+.paira2{
+    color: gray;
+    font-size: 18px;
+    padding-top: 5%;
+    padding-left: 8%;
+}
+
+.here{
+    background-color: rgb(150, 199, 77);
+    border-radius: 20px;
+    padding: 1% 7%;
+    margin-left: 8%;
+    margin-top: 5%;
+    color: white;
+    display: inline-block;
+}
